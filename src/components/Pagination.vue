@@ -31,6 +31,10 @@ export default {
 <style>
 .pagination-btn {
   cursor: pointer;
+  font-weight: bold;
+}
+.pagination-btn:hover {
+  opacity: 0.8;
 }
 .pagination-wrapper {
   -webkit-touch-callout: none; /* iOS Safari */
